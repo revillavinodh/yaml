@@ -1,7 +1,4 @@
 # YAML Zero to Master
-
-[![Image](https://github.com/eazybytes/yaml/blob/main/yaml.png "YAML Zero to Master")](https://www.udemy.com/course/yaml-zero-to-master/?referralCode=86106E18E5DA5F21D0E1)
-
 Learn basic & advance topics, data types, syntaxes, key features, and capabilities of YAML along with use cases.
 
 ## Topics covered in the course
